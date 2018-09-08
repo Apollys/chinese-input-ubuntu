@@ -11,7 +11,9 @@ sudo apt install ibus-pinyin
 ibus restart
 ```
 
-Then go to `System Settings` -> `Language Support` and install Chinese.  You will need to logout and login for the changes to take effect.
+Then go to `System Settings` -> `Language Support` and install Chinese.  You (ostensibly, I didn't check) need to logout and login for the changes to take effect.
+
+Finally, in `System Settings` -> `Text Entry`, you should be able to add `Chinese (Pinyin) (IBus)`.
 
 ### Font Rendering
 
