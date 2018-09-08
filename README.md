@@ -12,4 +12,6 @@ sudo apt install ibus-pinyin
 
 Then go to `System Settings` -> `Language Support` and install Chinese.  You will need to logout and login for the changes to take effect.
 
+### Font Rendering
+
 Now you may notice some characters being rendered strangely (by default they may be rendered as Japanese rather than Chinese characters).  [This](https://chinese.stackexchange.com/questions/30935/chinese-font-some-characters-rendered-strangely-%E5%A4%96-%E5%B0%86/30939#30939) post outlines the issue and how to solve it.
