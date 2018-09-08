@@ -8,6 +8,7 @@ First, install the package `ibus-pinyin`:
 
 ```
 sudo apt install ibus-pinyin
+ibus restart
 ```
 
 Then go to `System Settings` -> `Language Support` and install Chinese.  You will need to logout and login for the changes to take effect.
